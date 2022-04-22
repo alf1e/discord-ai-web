@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/discord-ai-web/static/css/main.d1d1cfa5.css",
-    "main.js": "/discord-ai-web/static/js/main.1377caa1.js",
-    "static/js/787.7947c3bd.chunk.js": "/discord-ai-web/static/js/787.7947c3bd.chunk.js",
+    "main.css": "/discord-ai-web/static/css/main.cb24ed6d.css",
+    "main.js": "/discord-ai-web/static/js/main.a68082f3.js",
     "static/media/logo.svg": "/discord-ai-web/static/media/logo.ef78c4c4646256922c5823cc5b49f728.svg",
     "index.html": "/discord-ai-web/index.html",
-    "main.d1d1cfa5.css.map": "/discord-ai-web/static/css/main.d1d1cfa5.css.map",
-    "main.1377caa1.js.map": "/discord-ai-web/static/js/main.1377caa1.js.map",
-    "787.7947c3bd.chunk.js.map": "/discord-ai-web/static/js/787.7947c3bd.chunk.js.map"
+    "main.cb24ed6d.css.map": "/discord-ai-web/static/css/main.cb24ed6d.css.map",
+    "main.a68082f3.js.map": "/discord-ai-web/static/js/main.a68082f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1d1cfa5.css",
-    "static/js/main.1377caa1.js"
+    "static/css/main.cb24ed6d.css",
+    "static/js/main.a68082f3.js"
   ]
 }
