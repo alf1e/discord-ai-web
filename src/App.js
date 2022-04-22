@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import Button from '@mui/material/Button';
 
 function App() {
   return (
@@ -13,7 +12,6 @@ function App() {
         <p>
           Coming Soon!
         </p>
-        <Button variant="contained" color="primary" disabled>Invite Now!</Button>
       </header>
     </div>
   );
